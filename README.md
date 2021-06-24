@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoqiang-wang
-- 👀 I’m interested in Graphics system: Driver, Compiler, GPU hardware.
-- 🌱 I’m currently learning: dragon book(LLVM),  OpenGL, VK.
+- 👀 I’m interested in Graphics system: Driver, Compiler, GPU hardware. 
+- 🌱 I’m currently learning: dragon book(LLVM),  OpenGL, VK. Rendering, RayTracing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xiaoqiang-wang@outlook.com
 
